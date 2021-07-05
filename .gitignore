@@ -8,6 +8,8 @@ sc-edits.csv
 tags.csv.gz
 sc-edits-*
 heatmap.json*
+.ipynb_checkpoints
+
 
 # Node stuff Dependency directories
 node_modules/
