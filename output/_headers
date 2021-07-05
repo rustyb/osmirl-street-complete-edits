@@ -1,0 +1,7 @@
+/*
+  Access-Control-Allow-Origin: *
+
+# a path:
+/heatmap.ndjson
+  # headers for that path:
+  Content-Type: application/x-ndjson
