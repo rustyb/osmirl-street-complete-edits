@@ -1,0 +1,18 @@
+*-changesets.txt.gz
+*.osh.pbf
+*.osm.pbf
+changesets-*.osm.bz2
+changesets-latest.osm.bz2.torrent
+osm-edits.db
+sc-edits.csv
+tags.csv.gz
+sc-edits-*
+heatmap.json*
+
+# Node stuff Dependency directories
+node_modules/
+.npm
+*.log
+npm-debug.log*
+dist
+
